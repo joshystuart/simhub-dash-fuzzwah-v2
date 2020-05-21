@@ -2,6 +2,10 @@
 
 This is my custom made SimHub dashboard specifically created to work with the cars I race on the iRacing service.
 
+To install it, download the packaged up simhubdash file from the link below then double click the file, SimHub will magically install it for you:
+
+https://github.com/Fuzzwah/simhub-dash-fuzzwah-v2/releases/download/v2.2/Fuzzwah.v2.simhubdash
+
 The content shown in the left hand panel changes depending on the car you're driving. For example, below is a screenshot of what it looks like when driving the Formula Renault 3.5:
 
 ![image](https://github.com/Fuzzwah/simhub-dash-fuzzwah-v2/blob/master/Fuzzwah%20v2.djson.png?raw=true)

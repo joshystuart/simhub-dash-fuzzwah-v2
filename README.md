@@ -6,6 +6,8 @@ The content shown in the left hand panel changes depending on the car you're dri
 
 ![image](https://github.com/Fuzzwah/simhub-dash-fuzzwah-v2/blob/master/Fuzzwah%20v2.djson.png?raw=true)
 
+The Max / Min on the right hand panel shows the highest and lowest speeds you've done during the last 20 seconds. I find this very helpful while finding optimal lines while practicing. You can quickly see if you've gained minimum apex speed or end of straight maximum speeds.
+
 For a cars that have in car adjustable options such as ABS, TC, ARB, etc these are displayed in the left panel.
 
 Cars that I've created custom left hand panels for are:

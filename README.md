@@ -6,7 +6,7 @@ To install it, download the packaged up simhubdash file from the link below then
 
 https://github.com/Fuzzwah/simhub-dash-fuzzwah-v2/releases/download/v2.2/Fuzzwah.v2.simhubdash
 
-The content shown in the left hand panel changes depending on the car you're driving. For example, below is a screenshot of what it looks like when driving the Formula Renault 3.5:
+The content shown in the left hand panel changes depending on the car you're driving. For example, below is a screenshot of what it looks like when driving the Formula Renault 3.5 (as I'd be changing the brake bias... normally the current gear is shown in the centre):
 
 ![image](https://github.com/Fuzzwah/simhub-dash-fuzzwah-v2/blob/master/Fuzzwah%20v2.djson.png?raw=true)
 
